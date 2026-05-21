@@ -1,0 +1,61 @@
+TRIPWISE_SIMPLE_TXT
+TRIP|Africa - Egypt|10|2000.0
+EXPENSE|1|Food|Breakfast near museum|50.0
+EXPENSE|1|Accommodation|Hotel deposit|100.0
+EXPENSE|2|Transport|Airport train|35.0
+ENDTRIP
+TRIP|Asia - Japan|7|2800.0
+EXPENSE|1|Accommodation|Tokyo hotel booking|900.0
+EXPENSE|2|Transport|Rail pass|420.0
+EXPENSE|3|Food|Meals and snacks|260.0
+EXPENSE|4|Activities|Museum and temple tickets|420.0
+EXPENSE|5|Shopping|Souvenirs|150.0
+ENDTRIP
+TRIP|Europe - Italy|6|2200.0
+EXPENSE|1|Accommodation|Guesthouse booking|720.0
+EXPENSE|2|Food|Pasta and cafes|230.0
+EXPENSE|3|Transport|Regional trains|310.0
+EXPENSE|4|Activities|Gallery and tour tickets|360.0
+ENDTRIP
+TRIP|North America - Canada|8|2600.0
+EXPENSE|1|Accommodation|Hotel stay|1200.0
+EXPENSE|2|Transport|Flights and city transit|650.0
+EXPENSE|3|Food|Restaurants|420.0
+EXPENSE|4|Activities|Tours and museum passes|430.0
+ENDTRIP
+TRIP|Oceania - New Zealand|9|3000.0
+EXPENSE|1|Accommodation|Lodge booking|360.0
+EXPENSE|2|Transport|Intercity bus|175.0
+EXPENSE|3|Food|Dinner and groceries|148.0
+EXPENSE|4|Activities|Kayak tour|240.0
+ENDTRIP
+TRIP|South America - Brazil|7|2100.0
+EXPENSE|1|Accommodation|Beach hotel|820.0
+EXPENSE|2|Transport|Metro and taxi rides|180.0
+EXPENSE|3|Activities|City tour and football ticket|320.0
+EXPENSE|4|Food|Local meals|210.0
+ENDTRIP
+TRIP|Asia - Thailand|5|1200.0
+EXPENSE|1|Accommodation|Boutique hostel|85.0
+EXPENSE|1|Food|Pad thai|12.0
+EXPENSE|2|Transport|Tuk tuk rides|30.0
+EXPENSE|3|Activities|Cooking class|75.0
+ENDTRIP
+TRIP|Europe - France|6|2500.0
+EXPENSE|1|Accommodation|Paris hotel|980.0
+EXPENSE|2|Food|Restaurants and bakery|360.0
+EXPENSE|3|Transport|Metro and train tickets|260.0
+EXPENSE|4|Shopping|Gifts and clothes|520.0
+ENDTRIP
+TRIP|Africa - Morocco|8|1800.0
+EXPENSE|1|Accommodation|Riad stay|760.0
+EXPENSE|2|Food|Tagine dinners|180.0
+EXPENSE|3|Transport|Taxi and bus tickets|190.0
+EXPENSE|4|Shopping|Market gifts|740.0
+ENDTRIP
+TRIP|North America - United States|4|1600.0
+EXPENSE|1|Accommodation|Downtown hotel|780.0
+EXPENSE|2|Food|Meals and coffee|260.0
+EXPENSE|3|Transport|Subway and rideshare|190.0
+EXPENSE|4|Activities|Observation deck and show ticket|430.0
+ENDTRIP
